@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://nikhilnair21.github.io/Portfolio/](https://nikhilnair21.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nikhilnair21.github.io/Portfolio/](https://nikhilapp.netlify.app)
 
 - 💬 Ask me about **Web development**
 
